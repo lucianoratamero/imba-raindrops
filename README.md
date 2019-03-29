@@ -18,3 +18,7 @@ npm run build
 # or deploy it to github pages
 npm run deploy
 ```
+
+## For the no-canvas version
+
+install [animejs](https://animejs.com/) with `npm install animejs`
