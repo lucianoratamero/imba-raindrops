@@ -33,7 +33,7 @@ module.exports = {
     extensions: ['.imba', '.js', '.json', '.scss']
   },
   plugins: [new HtmlWebpackPlugin({
-    title: 'luciano@ratamero.com - bokeh experiments'
+    title: 'luciano@ratamero.com - imba raindrops'
   })],
   entry: __dirname + '/src/App.imba',
   output: { path: __dirname + '/dist', filename: 'app.js' }

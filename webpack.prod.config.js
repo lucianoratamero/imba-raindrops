@@ -35,7 +35,7 @@ module.exports = {
   plugins: [
     new MiniCssExtractPlugin(),
     new HtmlWebpackPlugin({
-      title: 'luciano@ratamero.com - bokeh experiments'
+      title: 'luciano@ratamero.com - imba raindrops'
     }),
     new CompressionPlugin({
       compressionOptions: {
